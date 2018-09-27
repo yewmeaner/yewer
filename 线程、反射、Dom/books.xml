@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore name="新华书店">
+	<book id="1" name="语文" price='12.0'/>
+	<book id="2" name="数学" price='18.0'/>
+	<book id="3" name="英语" price='16.0'/>
+</bookstore>
